@@ -1,1 +1,2 @@
-该插件界面是嵌入kibana中的，由于http跨域请求障碍，所以使用该MessageClassify插件跳转到MLPlugin插件，然后MLPlugin插件中生成url请求es。
+kibana插件，一个演示分类功能的简单插件，相当于demo
+静态html代码在MessageClassify\public\templates\MCindex.html文件中
