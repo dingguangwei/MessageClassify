@@ -1,0 +1,1 @@
+该插件界面是嵌入kibana中的，由于http跨域请求障碍，所以使用该MessageClassify插件跳转到MLPlugin插件，然后MLPlugin插件中生成url请求es。
